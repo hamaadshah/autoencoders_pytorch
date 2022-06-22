@@ -188,7 +188,7 @@ tables==3.6.1
 tensorboard==2.8.0
 tensorflow-addons==0.11.2
 tensorflow-estimator==2.8.0
-tensorflow-gpu==2.8.0
+tensorflow-gpu==2.8.1
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.4
